@@ -1,0 +1,25 @@
+{
+  "name": "@sdk-react-native/xgpush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://huangjian@gitlab.bojoy.net:9090/sdk-react-native/xgpush.git"
+  },
+  "files": [
+    "RNGFXGPush",
+    "index.js",
+    "android/libs/",
+    "android/src/",
+    "android/build.gradle"
+  ],
+  "author": "penglei",
+  "license": "ISC"
+}

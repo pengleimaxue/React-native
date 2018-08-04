@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = 'example'
+include ':xgpush'
+project(':xgpush').projectDir = new File(rootProject.projectDir, '../node_modules/@sdk-react-native/xgpush/android')

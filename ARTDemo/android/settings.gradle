@@ -1,0 +1,3 @@
+rootProject.name = 'ARTDemo'
+
+include ':app'
